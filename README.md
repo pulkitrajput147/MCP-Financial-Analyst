@@ -15,7 +15,7 @@ mcp.json Configuration in cursor :<br>
       "command": "uv",<br>
       "args":[<br>
         "--directory",<br>
-        "/Users/pulkitrajput/Desktop/MCP_Financial_Analyst",<br>
+        "path to your root directory",<br>
         "run",<br>
         "server.py" <br>
 &nbsp;&nbsp;&nbsp;      ]<br>
